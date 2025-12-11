@@ -111,19 +111,30 @@ Domain-independent computational tools that can be adapted to urban, regional an
 
 ---
 
-## 🧰 Skills & tools (badges)
+<h2 align="center">🧰 Skills & tools (badges)</h2>
 
-### 🧮 Quantitative & modelling
+<p align="center">
+  A toolbox for working with <strong>urban complexity, multi-modal data, AI and planning practice</strong>.
+</p>
+
+<div align="center">
+
+<h4>🧮 Quantitative & modelling</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Fractal%20%26%20Sub--fractal%20Analysis-4b5563?style=flat" />
   <img src="https://img.shields.io/badge/Spatial%20Statistics-0f766e?style=flat" />
-  <img src="https://img.shields.io/badge/Agent--based%20Simulation-1d4ed8?style=flat" />
+  <img src="https://img.shields.io/badge/Hotspot%20%2F%20Cluster%20Analysis-22c55e?style=flat" />
   <img src="https://img.shields.io/badge/Complexity%20%26%20Statistical%20Mechanics-7e22ce?style=flat" />
   <img src="https://img.shields.io/badge/Urban%20Morphology%20Metrics-f97316?style=flat" />
+  <img src="https://img.shields.io/badge/Space%20Syntax-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/Time--series%20Analysis-1d4ed8?style=flat" />
+  <img src="https://img.shields.io/badge/Regression%20%26%20GLM-6b21a8?style=flat" />
+  <img src="https://img.shields.io/badge/Monte%20Carlo%20Methods-991b1b?style=flat" />
+  <img src="https://img.shields.io/badge/Agent--based%20Simulation-16a34a?style=flat" />
 </p>
 
-### 💻 Programming & data
+<h4>💻 Programming & data</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -132,34 +143,64 @@ Domain-independent computational tools that can be adapted to urban, regional an
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FFAA00?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-4b5563?style=flat" />
 </p>
 
-### 🤖 AI & language models
+<h4>🤖 AI & language models</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Language%20Model%20Integration-000000?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-0f766e?style=flat" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4c1d95?style=flat" />
+  <img src="https://img.shields.io/badge/Multi--model%20Orchestration-1e293b?style=flat" />
   <img src="https://img.shields.io/badge/Multi--modal%20Pipelines-334155?style=flat" />
   <img src="https://img.shields.io/badge/Text%2C%20Audio%2C%20Video%2C%20Spatial-6b21a8?style=flat" />
+  <img src="https://img.shields.io/badge/Whisper--based%20Transcription-f97316?style=flat" />
+  <img src="https://img.shields.io/badge/Experiment%20Tracking-9333ea?style=flat" />
+  <img src="https://img.shields.io/badge/Evaluation%20%26%20Benchmarking-15803d?style=flat" />
 </p>
 
-### 🗺 Spatial, design & visualisation
+<h4>🗺 Spatial, design & visualisation</h4>
 
 <p>
   <img src="https://img.shields.io/badge/GIS-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/QGIS-3baf29?style=flat&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Urban%20Design%20%26%20Planning-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/Urban%20Morphology-16a34a?style=flat" />
+  <img src="https://img.shields.io/badge/Map%20Design-0284c7?style=flat" />
+  <img src="https://img.shields.io/badge/Dashboard%20Design-4f46e5?style=flat" />
   <img src="https://img.shields.io/badge/3D%20Modelling-6366f1?style=flat" />
   <img src="https://img.shields.io/badge/CGI%20%26%20Visualisation-facc15?style=flat" />
+  <img src="https://img.shields.io/badge/Figure%20%26%20Diagram%20Design-a855f7?style=flat" />
 </p>
 
-### 🧱 Platforms & devops
+<h4>🧱 Platforms & devops</h4>
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Environments-4b5563?style=flat" />
 </p>
+
+<h4>✍️ Research, teaching & collaboration</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Academic%20Writing-1d4ed8?style=flat" />
+  <img src="https://img.shields.io/badge/Peer%20Review%20(Heliyon%2C%20Land%20Use%20Policy)-6b21a8?style=flat" />
+  <img src="https://img.shields.io/badge/Conference%20Presentations-f97316?style=flat" />
+  <img src="https://img.shields.io/badge/Studio%20%26%20Course%20Instruction-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/Interdisciplinary%20Projects-0ea5e9?style=flat" />
+</p>
+
+</div>
