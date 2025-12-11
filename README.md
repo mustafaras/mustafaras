@@ -24,14 +24,15 @@ drawing on statistical mechanics, complexity theory, fractal geometry and space 
 
 ---
 
-## Profile
+## 🧭 Profile
 
-I work on measuring urban morphology, spatial complexity and resilience; analysing transitions from closed/top-down plans to adaptive and participatory planning; and integrating agriculture/food systems into urban design.  
-On GitHub, I operationalise these themes as software and analytical tooling: decision dashboards, RAG systems, multi-modal data analysis (text, audio, video, spatial), simulations and agent-based models, and visualisations for researchers and policy makers.
+I work on measuring urban morphology, spatial complexity and resilience; analysing transitions from closed/top-down plans to adaptive and participatory planning; and integrating agriculture/food systems into urban design.
+
+On GitHub, I operationalise these themes as computational tools: decision dashboards, RAG systems, multi-modal data analysis (text, audio, video, spatial), simulations and agent-based models, and visualisations for researchers and policy makers. 🌆📊
 
 ---
 
-## Research keywords
+## 🔑 Research keywords
 
 `Urban morphology` · `Spatial complexity` · `Fractal analysis` · `Sub-fractal scaling` · `Space syntax` ·  
 `Statistical mechanics` · `Morphological dual-phase modelling` · `Urban form metrics` · `Adaptive capacity` ·  
@@ -41,14 +42,14 @@ On GitHub, I operationalise these themes as software and analytical tooling: dec
 
 ---
 
-## Positions
+## 🧑‍🏫 Positions
 
 - Instructor, City and Regional Planning, Middle East Technical University (METU), Ankara — 2024–  
-- Financial Affairs, Altındağ Municipality, Ankara — 2020–
+- Financial Affairs, Altındağ Municipality, Ankara — 2020–  
 
 ---
 
-## Education
+## 🎓 Education
 
 - PhD, City and Regional Planning — METU, 2016–2023  
 - MSc, Urban Design — METU, 2010–2014  
@@ -56,33 +57,31 @@ On GitHub, I operationalise these themes as software and analytical tooling: dec
 
 ---
 
-## Software and tools (GitHub & Zenodo)
+## 🛠 Software and tools (GitHub & Zenodo)
 
 Domain-independent computational tools that can be adapted to urban, regional and policy questions:
 
 - **SynapseIDE** – Programmable workbench for complex-system modelling and decision-support  
-  [GitHub](https://github.com/mustafaras/Synapse_IDE_PSYCHIATRY) · Zenodo: 10.5281/zenodo.17878968  
+  👉 [GitHub](https://github.com/mustafaras/Synapse_IDE_PSYCHIATRY) · Zenodo: 10.5281/zenodo.17878968  
 
 - **Synapse_IDE (Core IDE platform)** – Browser-based IDE (React + TypeScript + Monaco) with multi-provider language model integration and controlled apply pipelines  
-  [GitHub](https://github.com/mustafaras/Synapse_IDE) · Zenodo: 10.5281/zenodo.17164863  
+  👉 [GitHub](https://github.com/mustafaras/Synapse_IDE) · Zenodo: 10.5281/zenodo.17164863  
 
 - **EchoForge** – Audio and video/YouTube processing and transcription pipeline with structured downstream analysis  
-  [GitHub](https://github.com/mustafaras/echoforge_whisper) · Zenodo: 10.5281/zenodo.17164879  
+  👉 [GitHub](https://github.com/mustafaras/echoforge_whisper) · Zenodo: 10.5281/zenodo.17164879  
 
 - **Medigenius_AI** – Retrieval-Augmented platform over large document corpora, with multi-model orchestration and analytical workflows  
-  [GitHub](https://github.com/mustafaras/MEDIGENIUSAI) · Zenodo: 10.5281/zenodo.17164802  
+  👉 [GitHub](https://github.com/mustafaras/MEDIGENIUSAI) · Zenodo: 10.5281/zenodo.17164802  
 
 - **MoodForge** – Multimodal simulation engine generating synthetic agents and longitudinal trajectories for risk and complexity experiments  
-  [GitHub](https://github.com/mustafaras/moodforge_advanced_psychiatry_psychology) · Zenodo: 10.5281/zenodo.17164900  
+  👉 [GitHub](https://github.com/mustafaras/moodforge_advanced_psychiatry_psychology) · Zenodo: 10.5281/zenodo.17164900  
 
 - **NeuroClarity** – Dashboard architecture for multi-modal signals (mood, text, audio, video, metrics) with model-based interpretation  
-  [GitHub](https://github.com/mustafaras/Neuro-Clarity_Psychiatric_Psychologic_moodtracking) · Zenodo: 10.5281/zenodo.17164815  
-
-These projects are used as testbeds for ideas in urban complexity, adaptive capacity measurement and multi-modal analytics.
+  👉 [GitHub](https://github.com/mustafaras/Neuro-Clarity_Psychiatric_Psychologic_moodtracking) · Zenodo: 10.5281/zenodo.17164815  
 
 ---
 
-## Selected publications and talks
+## 📚 Selected publications and talks
 
 - **Urban complexity: Izmir’s adaptive capacity through sub-fractal difference analysis**  
   *Environment and Planning B: Urban Analytics and City Science*, 2025. DOI: 10.1177/23998083251379282  
@@ -108,46 +107,59 @@ These projects are used as testbeds for ideas in urban complexity, adaptive capa
 - **İzmir Bölgesinin Merkezileşme Eğilimlerinin Alt-fraktal Analiz Yöntemiyle İrdelenmesi**  
   23. Ulusal Bölge Bilimi ve Bölge Planlama Kongresi, 2023 (conference paper)  
 
-Full list of works and software: see [ORCID profile](https://orcid.org/0009-0001-4809-3950).
+📎 Full list of works and software: [ORCID profile](https://orcid.org/0009-0001-4809-3950).
 
 ---
 
-## Technical skills
+## 🧰 Skills & tools (badges)
 
-**Quantitative & modelling**
+### 🧮 Quantitative & modelling
 
-- Fractal and sub-fractal analysis of urban form  
-- Spatial statistics, hotspot / cluster analysis, dual-phase morphology  
-- Agent-based and simulation modelling  
-- Statistical mechanics–inspired measures of complexity and adaptive capacity  
-
-**Computational**
-
-- Python (data analysis, modelling, back-end services)  
-- TypeScript / JavaScript (React, front-end tooling, dashboards)  
-- Multi-modal pipelines (text, audio, video, spatial data)  
-- Language model integration and Retrieval-Augmented Generation (RAG)  
-
-**Spatial and visual**
-
-- GIS workflows for urban and regional planning  
-- Urban design and morphology-driven planning support  
-- 3D modelling, CGI and visualisation for communicating complex spatial structures  
-
----
-
-## GitHub overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mustafaras&show_icons=true&include_all_commits=true&hide_title=true"
-    alt="GitHub stats"
-  />
+<p>
+  <img src="https://img.shields.io/badge/Fractal%20%26%20Sub--fractal%20Analysis-4b5563?style=flat" />
+  <img src="https://img.shields.io/badge/Spatial%20Statistics-0f766e?style=flat" />
+  <img src="https://img.shields.io/badge/Agent--based%20Simulation-1d4ed8?style=flat" />
+  <img src="https://img.shields.io/badge/Complexity%20%26%20Statistical%20Mechanics-7e22ce?style=flat" />
+  <img src="https://img.shields.io/badge/Urban%20Morphology%20Metrics-f97316?style=flat" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaras&layout=compact&hide_title=true"
-    alt="Top languages"
-  />
+### 💻 Programming & data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+### 🤖 AI & language models
+
+<p>
+  <img src="https://img.shields.io/badge/Language%20Model%20Integration-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-0f766e?style=flat" />
+  <img src="https://img.shields.io/badge/Multi--modal%20Pipelines-334155?style=flat" />
+  <img src="https://img.shields.io/badge/Text%2C%20Audio%2C%20Video%2C%20Spatial-6b21a8?style=flat" />
+</p>
+
+### 🗺 Spatial, design & visualisation
+
+<p>
+  <img src="https://img.shields.io/badge/GIS-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/Urban%20Design%20%26%20Planning-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/3D%20Modelling-6366f1?style=flat" />
+  <img src="https://img.shields.io/badge/CGI%20%26%20Visualisation-facc15?style=flat" />
+</p>
+
+### 🧱 Platforms & devops
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
