@@ -1,0 +1,16 @@
+<svg width="460" height="150" viewBox="0 0 460 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Synapse IDE — Urban Analytics">
+<rect x="0.5" y="0.5" width="459" height="149" rx="10" fill="#0B1120" stroke="#1E293B"/>
+<rect x="6" y="12" width="3" height="126" rx="1.5" fill="#22D3EE"/>
+<text x="436" y="26" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2" fill="#22D3EE" fill-opacity="0.85">URBAN · GIS</text>
+<text x="24" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="bold" fill="#F1F5F9">Synapse IDE — Urban Analytics</text>
+<text x="24" y="76" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">Tri-modal spatial intelligence platform for urban</text>
+<text x="24" y="93" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">science, planning, risk and evidence-based decisions.</text>
+<rect x="24" y="116" width="86" height="19" rx="9.5" fill="#1E293B" fill-opacity="0.8" stroke="#334155"/>
+<text x="67.0" y="129.5" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#CBD5E1">TypeScript</text>
+<rect x="118" y="116" width="37" height="19" rx="9.5" fill="#1E293B" fill-opacity="0.8" stroke="#334155"/>
+<text x="136.5" y="129.5" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#CBD5E1">GIS</text>
+<rect x="163" y="116" width="86" height="19" rx="9.5" fill="#1E293B" fill-opacity="0.8" stroke="#334155"/>
+<text x="206.0" y="129.5" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#CBD5E1">Spatial ML</text>
+<text x="436" y="140" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.5" fill="#475569">GITHUB ↗</text>
+<path d="M 442 140 L 450 140 L 450 132" stroke="#22D3EE" stroke-opacity="0.4" stroke-width="1.2" fill="none"/>
+</svg>

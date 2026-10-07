@@ -1,0 +1,31 @@
+<svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="agentic systems">
+<line x1="14" y1="18" x2="36" y2="12" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="18" x2="36" y2="26" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="18" x2="36" y2="40" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="18" x2="36" y2="54" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="36" x2="36" y2="12" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="36" x2="36" y2="26" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="36" x2="36" y2="40" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="36" x2="36" y2="54" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="54" x2="36" y2="12" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="54" x2="36" y2="26" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="54" x2="36" y2="40" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="14" y1="54" x2="36" y2="54" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="12" x2="58" y2="22" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="12" x2="58" y2="44" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="26" x2="58" y2="22" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="26" x2="58" y2="44" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="40" x2="58" y2="22" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="40" x2="58" y2="44" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="54" x2="58" y2="22" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<line x1="36" y1="54" x2="58" y2="44" stroke="#34D399" stroke-opacity="0.35" stroke-width="0.9"/>
+<circle cx="14" cy="18" r="3.4" fill="#0B1120" stroke="#22D3EE" stroke-width="1.6"/>
+<circle cx="14" cy="36" r="3.4" fill="#0B1120" stroke="#22D3EE" stroke-width="1.6"/>
+<circle cx="14" cy="54" r="3.4" fill="#0B1120" stroke="#22D3EE" stroke-width="1.6"/>
+<circle cx="36" cy="12" r="3.4" fill="#0B1120" stroke="#34D399" stroke-width="1.6"/>
+<circle cx="36" cy="26" r="3.4" fill="#0B1120" stroke="#34D399" stroke-width="1.6"/>
+<circle cx="36" cy="40" r="3.4" fill="#0B1120" stroke="#34D399" stroke-width="1.6"/>
+<circle cx="36" cy="54" r="3.4" fill="#0B1120" stroke="#34D399" stroke-width="1.6"/>
+<circle cx="58" cy="22" r="3.4" fill="#0B1120" stroke="#22D3EE" stroke-width="1.6"/>
+<circle cx="58" cy="44" r="3.4" fill="#0B1120" stroke="#22D3EE" stroke-width="1.6"/>
+</svg>
