@@ -1,123 +1,303 @@
-<h1 align="center">Mustafa Raşit Şahin</h1>
-<p align="center"><strong>Urban Morphology · Spatial Complexity · AI for Cities</strong></p>
-
-<p align="center">
-I develop theoretical and computational frameworks for understanding and transforming urban systems,
-drawing on statistical mechanics, complexity theory, fractal geometry and space syntax.
-</p>
-
-<p align="center">
-  <a href="mailto:mustafarasit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mustafarasit%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:rsahin@metu.edu.tr">
-    <img src="https://img.shields.io/badge/Email-rsahin%40metu.edu.tr-informational?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0001-4809-3950">
-    <img src="https://img.shields.io/badge/ORCID-0009--0001--4809--3950-A6CE39?style=flat&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mustafarasit/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Country-T%C3%BCrkiye-lightgrey?style=flat" />
-</p>
-
----
-
-## 🧭 Profile
-
-I work on measuring urban morphology, spatial complexity and resilience; analysing transitions from closed/top-down plans to adaptive and participatory planning; and integrating agriculture/food systems into urban design.
-
-On GitHub, I operationalise these themes as computational tools: decision dashboards, RAG systems, multi-modal data analysis (text, audio, video, spatial), simulations and agent-based models, and visualisations for researchers and policy makers. 🌆📊
-
----
-
-## 🔑 Research keywords
-
-`Urban morphology` · `Spatial complexity` · `Fractal analysis` · `Sub-fractal scaling` · `Space syntax` ·  
-`Statistical mechanics` · `Morphological dual-phase modelling` · `Urban form metrics` · `Adaptive capacity` ·  
-`Planning transitions` · `Urban design methods` · `Agent-based simulation` · `GIS` · `Urban design & planning` ·  
-`Multi-modal data analysis` · `Language model integration` · `Retrieval-Augmented Generation (RAG)` ·  
-`Hotspot / cluster analysis` · `3D modelling` · `CGI & visualisation`
-
----
-
-## 🧑‍🏫 Positions
-
-- Instructor, City and Regional Planning, Middle East Technical University (METU), Ankara — 2024–  
-- Financial Affairs, Altındağ Municipality, Ankara — 2020–  
-
----
-
-## 🎓 Education
-
-- PhD, City and Regional Planning — METU, 2016–2023  
-- MSc, Urban Design — METU, 2010–2014  
-- BSc, City and Regional Planning — METU, 2005–2010  
-
----
-
-## 🛠 Software and tools (GitHub & Zenodo)
-
-Domain-independent computational tools that can be adapted to urban, regional and policy questions:
-
-- **SynapseIDE** – Programmable workbench for complex-system modelling and decision-support  
-  👉 [GitHub](https://github.com/mustafaras/Synapse_IDE_PSYCHIATRY) · Zenodo: 10.5281/zenodo.17878968  
-
-- **Synapse_IDE (Core IDE platform)** – Browser-based IDE (React + TypeScript + Monaco) with multi-provider language model integration and controlled apply pipelines  
-  👉 [GitHub](https://github.com/mustafaras/Synapse_IDE) · Zenodo: 10.5281/zenodo.17164863  
-
-- **EchoForge** – Audio and video/YouTube processing and transcription pipeline with structured downstream analysis  
-  👉 [GitHub](https://github.com/mustafaras/echoforge_whisper) · Zenodo: 10.5281/zenodo.17164879  
-
-- **Medigenius_AI** – Retrieval-Augmented platform over large document corpora, with multi-model orchestration and analytical workflows  
-  👉 [GitHub](https://github.com/mustafaras/MEDIGENIUSAI) · Zenodo: 10.5281/zenodo.17164802  
-
-- **MoodForge** – Multimodal simulation engine generating synthetic agents and longitudinal trajectories for risk and complexity experiments  
-  👉 [GitHub](https://github.com/mustafaras/moodforge_advanced_psychiatry_psychology) · Zenodo: 10.5281/zenodo.17164900  
-
-- **NeuroClarity** – Dashboard architecture for multi-modal signals (mood, text, audio, video, metrics) with model-based interpretation  
-  👉 [GitHub](https://github.com/mustafaras/Neuro-Clarity_Psychiatric_Psychologic_moodtracking) · Zenodo: 10.5281/zenodo.17164815  
-
----
-
-## 📚 Selected publications and talks
-
-- **Urban complexity: Izmir’s adaptive capacity through sub-fractal difference analysis**  
-  *Environment and Planning B: Urban Analytics and City Science*, 2025. DOI: 10.1177/23998083251379282  
-
-- **Advanced Quantification of Urban Complexity and Adaptive Capacity: Sub-Fractal Analysis and Spatial Statistics in Izmir**  
-  AESOP 2025 – Planning as a Transformative Action in an Age of Planetary Crisis, Istanbul, 2025 (conference presentation)  
-
-- **Exploring Regionalization and Centralization in Izmir: A Dual-Phase Analysis of Urban Morphology Using Sub-Fractal and Space Syntax Methods**  
-  AESOP 2025 – Planning as a Transformative Action in an Age of Planetary Crisis, Istanbul, 2025 (conference poster)  
-
-- **How Can Urban Planners in Türkiye Foster Stronger Connections with the Agricultural/Food Sector While Transitioning from Closed Plans to Open Plans?**  
-  *Journal of Planning*, 2025. DOI: 10.14744/planlama.2024.52386  
-
-- **Dijitalleşen Araçlarda Kentsel Karmaşıklığın Ölçülmesi ve Alt-Fraktal Analizlerin Mekansal İstatistiği – İzmir Kenti Adaptasyon Kapasitesi ve Arazi Kullanım Planlamasının Etkileri**  
-  8 Kasım Dünya Şehircilik Günü 47. Kolokyumu, 2024 (conference presentation)  
-
-- **Transition from Traditional Urban Models to Complex System Models**  
-  *Journal of Planning*, 2024. DOI: 10.14744/planlama.2024.38243  
-
-- **Conceptualizations of Urban, Rural and Region in “Urban Age”**  
-  In *Architectural Sciences and Recent Approaches and Trends in Urban and Regional Planning*, 2023 (book chapter)  
-
-- **İzmir Bölgesinin Merkezileşme Eğilimlerinin Alt-fraktal Analiz Yöntemiyle İrdelenmesi**  
-  23. Ulusal Bölge Bilimi ve Bölge Planlama Kongresi, 2023 (conference paper)  
-
-📎 Full list of works and software: [ORCID profile](https://orcid.org/0009-0001-4809-3950).
-
----
-
-<h2 align="center">🧰 Skills & tools (badges)</h2>
-
-<p align="center">
-  A toolbox for working with <strong>urban complexity, multi-modal data, AI and planning practice</strong>.
-</p>
+<!--
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║   MUSTAFA RAŞİT ŞAHİN                                                        ║
+  ║   Urban Morphology · Spatial Complexity · AI for Cities                      ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,30:1E1B4B,65:312E81,100:0E7490&height=215&section=header&text=Mustafa%20Ra%C5%9Fit%20%C5%9Eahin&fontSize=46&fontColor=E2E8F0&fontAlignY=35&desc=Urban%20Morphology%20%C2%B7%20Spatial%20Complexity%20%C2%B7%20AI%20for%20Cities&descAlignY=56&descSize=17&animation=fadeIn" alt="Mustafa Raşit Şahin" />
+
+<a href="https://github.com/mustafaras">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&width=880&height=44&lines=PhD+%C2%B7+City+and+Regional+Planning+%40+METU;Measuring+urban+complexity+through+sub-fractal+analysis;Building+computational+instruments+for+adaptive+cities;Statistical+mechanics+%C2%B7+Space+syntax+%C2%B7+Agentic+AI" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:mustafarasit@gmail.com"><img src="https://img.shields.io/badge/mustafarasit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:rsahin@metu.edu.tr"><img src="https://img.shields.io/badge/rsahin%40metu.edu.tr-0E7490?style=for-the-badge&logo=minutemailer&logoColor=white" alt="METU" /></a>
+<a href="https://orcid.org/0009-0001-4809-3950"><img src="https://img.shields.io/badge/ORCID-0009--0001--4809--3950-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://www.linkedin.com/in/mustafarasit/"><img src="https://img.shields.io/badge/LinkedIn-mustafarasit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/mustafaras"><img src="https://img.shields.io/badge/GitHub-mustafaras-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Ankara-T%C3%BCrkiye-DC2626?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ankara, Türkiye" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<h2>
+  <img src="https://api.iconify.design/lucide:compass.svg?color=%2322d3ee" width="24" />
+  &nbsp;Profile
+</h2>
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I develop **theoretical and computational frameworks** for understanding and transforming urban systems, drawing on statistical mechanics, complexity theory, fractal geometry and space syntax.
+
+My research measures **urban morphology, spatial complexity and resilience**; analyses the transition from closed, top-down plans to adaptive and participatory planning; and integrates agriculture and food systems into urban design.
+
+On GitHub I operationalise these themes as **computational instruments** — decision dashboards, retrieval-augmented systems, multi-modal pipelines (text · audio · video · spatial), simulations and agent-based models, and visualisations built for researchers and policy makers.
+
+</td>
+<td width="40%" valign="top">
+
+**🎓 Education**
+
+- **PhD** · City & Regional Planning — METU `2016–2023`
+- **MSc** · Urban Design — METU `2010–2014`
+- **BSc** · City & Regional Planning — METU `2005–2010`
+
+**🧑‍🏫 Positions**
+
+- Instructor · City & Regional Planning, METU `2024–`
+- Financial Affairs · Altındağ Municipality, Ankara `2020–`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<h2>
+  <img src="https://api.iconify.design/lucide:activity.svg?color=%23a78bfa" width="24" />
+  &nbsp;GitHub Analytics
+</h2>
+
+<br/>
+
+<a href="https://github.com/mustafaras">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafaras&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&border_color=1E293B" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaras&hide_border=true&background=0B1120&stroke=1E293B&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/mustafaras">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaras&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&border_color=1E293B" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafaras&theme=github_dark" alt="Profile Details" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<h2>
+  <img src="https://api.iconify.design/lucide:layers.svg?color=%23f472b6" width="24" />
+  &nbsp;Featured Work
+</h2>
+</div>
+
+### 🏙 &nbsp;Urban & Spatial Intelligence
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/SynapseIDE_urban_analytics">Synapse IDE — Urban Analytics</a>
+
+Tri-modal spatial intelligence platform for urban science, planning, risk, equity and evidence-based decision making. GIS map explorer + analytics workbench.
+
+`TypeScript` · `GIS` · `Spatial ML`
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/flux2_architectural_urban_studio">FLUX.2 Architectural & Urban Studio</a>
+
+Streamlit environment for architectural and urban design generation — a generative studio for form exploration and design iteration.
+
+`Python` · `Streamlit` · `Generative Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/belief_emergence">Belief Emergence</a>
+
+Reproducible research repository: data ingestion and harmonisation, panel dataset construction, analysis and reporting scripts, derived metrics, figures and LaTeX manuscript sources.
+
+`TypeScript` · `Reproducible Research` · `Visual Analytics`
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/s">ŞEYMA · ÆON</a>
+
+Evidence-first observation platform — private signals, structured evidence capture and a live GitHub Pages interface.
+
+`JavaScript` · `GitHub Pages`
+
+</td>
+</tr>
+</table>
+
+### 🔬 &nbsp;Scientific Atlases — WebGL & GPU
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/horizon-quantum-gravity-atlas">Horizon — Quantum Gravity Atlas</a>
+
+Interactive scientific atlas of quantum gravity: WebGL black-hole thermodynamics, QFT scattering, spacetime curvature, holography and experimental constraints.
+
+`JavaScript` · `WebGL` · `Physics`
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/periodic-intelligence-lab">Periodic Intelligence Lab</a>
+
+An interactive atlas of matter — 3D atoms, orbital clouds, periodic trends, spectra, compounds and cosmic origin.
+
+`JavaScript` · `3D` · `Chemistry`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/cytoatlas-pro-3d">CytoAtlas Pro 3D</a>
+
+GPU-accelerated interactive cell biology, running entirely in the browser.
+
+`JavaScript` · `WebGL` · `Biology`
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/solar">Solar Observatory</a>
+
+Static Solar 3D WebGL observatory — React + Three.js visualisation of the Sun and its activity.
+
+`JavaScript` · `Three.js` · `Astronomy` · ⭐
+
+</td>
+</tr>
+</table>
+
+### 🤖 &nbsp;AI & Agentic Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/Synapse_IDE">Synapse IDE</a>
+
+Browser-based IDE (React + TypeScript + Monaco) with a streaming AI assistant, adapters for OpenAI, Anthropic, Gemini and local Ollama, plus a safe apply-plan pipeline that turns model output into real file edits.
+
+`TypeScript` · `Monaco` · `LLM` · ⭐
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/Synapse_IDE_PSYCHIATRY">Synapse IDE — Psychiatry</a>
+
+A programmable digital psychiatry workbench for modelling, simulation and analysis of complex clinical systems.
+
+`TypeScript` · `Simulation` · ⭐
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/moodforge_advanced_psychiatry_psychology">MoodForge Advanced</a>
+
+High-fidelity multimodal simulation engine for digital psychiatry — synthetic patients, longitudinal psychological profiles, NLP, emotion recognition, psychometrics and activity metrics.
+
+`Python` · `Multimodal` · `NLP` · ⭐⭐
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/MEDIGENIUSAI">Medigenius AI</a>
+
+Retrieval-augmented medical AI platform over 125K+ sources with multi-model support (GPT-4o, Claude, Gemini) for clinical decision support in research and education.
+
+`Python` · `RAG` · `Multi-model`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/echoforge_whisper">EchoForge</a>
+
+Audio and video/YouTube processing and transcription pipeline — Whisper + GPT-4, multilingual UI and structured downstream analysis.
+
+`Python` · `Whisper` · `Transcription`
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/Neuro-Clarity_Psychiatric_Psychologic_moodtracking">Neuro-Clarity</a>
+
+AI-powered dashboard for psychiatry — analyses mood, voice, text, video and health data with psychometric tests, model-based insights and patient reports.
+
+`Python` · `Dashboard` · `Multimodal`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/mustafaras/AURA-Local-Voice-Agent-Premium-Pack">AURA</a>
+
+Privacy-first local macOS voice and computer-use agent — on-device speech, local reasoning and desktop automation.
+
+`Swift` · `On-device` · `Agents`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<h2>
+  <img src="https://api.iconify.design/lucide:book-open.svg?color=%23fbbf24" width="24" />
+  &nbsp;Selected Publications & Talks
+</h2>
+</div>
+
+- **Urban complexity: Izmir's adaptive capacity through sub-fractal difference analysis** — *Environment and Planning B: Urban Analytics and City Science*, 2025 · [DOI](https://doi.org/10.1177/23998083251379282)
+- **Advanced Quantification of Urban Complexity and Adaptive Capacity: Sub-Fractal Analysis and Spatial Statistics in Izmir** — AESOP 2025, Istanbul *(presentation)*
+- **Exploring Regionalization and Centralization in Izmir: A Dual-Phase Analysis of Urban Morphology Using Sub-Fractal and Space Syntax Methods** — AESOP 2025, Istanbul *(poster)*
+- **How Can Urban Planners in Türkiye Foster Stronger Connections with the Agricultural/Food Sector While Transitioning from Closed Plans to Open Plans?** — *Journal of Planning*, 2025 · [DOI](https://doi.org/10.14744/planlama.2024.52386)
+- **Dijitalleşen Araçlarda Kentsel Karmaşıklığın Ölçülmesi ve Alt-Fraktal Analizlerin Mekansal İstatistiği** — 8 Kasım Dünya Şehircilik Günü 47. Kolokyumu, 2024 *(presentation)*
+- **Transition from Traditional Urban Models to Complex System Models** — *Journal of Planning*, 2024 · [DOI](https://doi.org/10.14744/planlama.2024.38243)
+- **Conceptualizations of Urban, Rural and Region in "Urban Age"** — in *Architectural Sciences and Recent Approaches and Trends in Urban and Regional Planning*, 2023 *(book chapter)*
+- **İzmir Bölgesinin Merkezileşme Eğilimlerinin Alt-fraktal Analiz Yöntemiyle İrdelenmesi** — 23. Ulusal Bölge Bilimi ve Bölge Planlama Kongresi, 2023 *(conference paper)*
+
+<div align="center">
+
+📎 &nbsp;Full list of works and software: **[ORCID profile](https://orcid.org/0009-0001-4809-3950)**
+
+</div>
+
+---
+
+<div align="center">
+<h2>
+  <img src="https://api.iconify.design/lucide:wrench.svg?color=%2334d399" width="24" />
+  &nbsp;Toolbox
+</h2>
+
+<p>A toolbox for working with <strong>urban complexity, multi-modal data, AI and planning practice</strong>.</p>
 
 <h4>🧮 Quantitative & modelling</h4>
 
@@ -202,5 +382,13 @@ Domain-independent computational tools that can be adapted to urban, regional an
   <img src="https://img.shields.io/badge/Studio%20%26%20Course%20Instruction-22c55e?style=flat" />
   <img src="https://img.shields.io/badge/Interdisciplinary%20Projects-0ea5e9?style=flat" />
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,35:312E81,70:1E1B4B,100:0B1120&height=150&section=footer&text=Let%27s%20build%20cities%20that%20learn&fontSize=20&fontColor=E2E8F0&fontAlignY=70&animation=fadeIn" alt="Footer" />
 
 </div>
